@@ -1,0 +1,17 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.17.0",
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "@types/cypress": "^0.1.6",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cypress:run": "cypress run"
+  }
+}
